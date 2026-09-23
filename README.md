@@ -17,7 +17,7 @@
 ## 📸 Portfolio Interface
 <div align="center">
   <!-- DHYAN DEIN: Is image ko dekhne ke liye apne repo me "1001023928.jpg" zaroor upload karein -->
-  <img src="1001023928.jpg" alt="Mohammad Aquib Portfolio" width="700" style="border-radius: 15px; border: 2px solid #4CAF50; box-shadow: 0px 5px 20px rgba(76, 175, 80, 0.2);">
+  <img src="portfolio.png" alt="Mohammad Aquib Portfolio" width="700" style="border-radius: 15px; border: 2px solid #4CAF50; box-shadow: 0px 5px 20px rgba(76, 175, 80, 0.2);">
   <p><i>Clean, professional, and dark-themed personal portfolio</i></p>
 </div>
 
@@ -64,26 +64,27 @@ The source code, UI design, personal imagery, and content are proprietary. **Clo
 <div align="center">
   <h2 style="color: #4CAF50;">Let's Connect 🤝</h2>
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat!</p>
-  
+<br/>
+<br/>
   <a href="mailto:mohdaquib195@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=4CAF50" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/mohammad--aquib">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=4CAF50" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Aquib195">
+  <a href="https://github.com/Aquib6544">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=4CAF50" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/your-profile">
+  <a href="https://www.instagram.com/mohdaquib6544">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=4CAF50" alt="Instagram"/>
   </a>
 </div>
-
+<br/>
 <br/>
 
 <!-- Animated Thank You Message -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+portfolio!;Keep+Coding,+Keep+Creating!+🚀" alt="Typing Greeting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+portfolio%21;Keep+Coding%2C+Keep+Creating%21+%F0%9F%9A%80" alt="Typing Greeting"/>
 </div>
 
 <!-- Premium Waving Footer in Green -->
